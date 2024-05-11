@@ -1,0 +1,28 @@
+.container-info{
+    padding: 10;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container-info h2{
+    width: 100%;
+    text-align: center;
+    user-select: none;
+}
+.container-info h3{
+    width: 100%;
+    text-align: center;
+    user-select: none;
+}
+.container-info button{
+    width: 10%;
+    margin-right: 10px;
+    background-color: rgb(2, 76, 89);
+    color: #fff;
+    padding: 7px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,23 @@
+.contenedorBanderas{
+    margin: 0 auto;
+    max-width: 50vw;
+    height: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Banderas{
+    width: 20%;
+    height: 100%;
+    
+}
+.Banderas img{
+    width: 60%;
+    height: 100%;
+
+}
+.Banderas img:hover{
+    cursor: pointer;
+    opacity: 10%;
+
+}
